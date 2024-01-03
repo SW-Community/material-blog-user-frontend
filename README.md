@@ -1,8 +1,8 @@
-# blog-master
+# 寻梦————基于Material You的博客app
 
-This template should help get you started developing with Vue 3 in Vite.
+此为用户前端部分，下面是安装说明
 
-## Recommended IDE Setup
+## 使用的开发工具
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
@@ -10,20 +10,20 @@ This template should help get you started developing with Vue 3 in Vite.
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
-## Project Setup
+## 如何安装运行
+
+请安装NODEJS 21及以上版本，低于此版本不保证可用性！
+
+下载代码后运行下列命令
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
 
 ```sh
 npm run dev
 ```
+（如果这不起作用，请尝试安装cnpm或换源）
 
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+打开localhost:5173查看效果
